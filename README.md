@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Artem 👋
 
 <!--
 **artem-liamichev/artem-liamichev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- I’m software developer particulary focusing on Web
+- I’m currently learning Typescript and sharpening my skills at React and JS
+- How to reach me: https://www.linkedin.com/in/artem-liamichev-6227b7266/
