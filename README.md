@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I’m aspiring software developer particulary focusing on Web
+- I’m aspiring software developer particulary focusing on Web. I have a background in industrial control systems where I was involved in PLC programming, HMI design, and project management.
 - I’m currently learning Typescript and sharpening my skills at React and JS
 - How to reach me: https://www.linkedin.com/in/artem-liamichev-6227b7266/
