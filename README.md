@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I’m software developer particulary focusing on Web
+- I’m aspiring software developer particulary focusing on Web
 - I’m currently learning Typescript and sharpening my skills at React and JS
 - How to reach me: https://www.linkedin.com/in/artem-liamichev-6227b7266/
